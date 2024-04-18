@@ -86,9 +86,9 @@ Pygments==2.17.2
 PyJWT==2.8.0
 pyOpenSSL==24.1.0
 pyparsing==3.1.2
-PyQt5==5.15.10
-PyQt5-Qt5==5.15.13
-PyQt5-sip==12.13.0
+PyQt5
+PyQt5-Qt5
+PyQt5-sip
 PySocks==1.7.1
 python-dateutil==2.9.0.post0
 pytorch-crf==0.7.2
